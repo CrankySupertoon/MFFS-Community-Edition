@@ -97,7 +97,7 @@ public class ItemForcicumCell extends ItemMFFSBase {
 										slot.putStack(forcecium);
 									} else {
 
-										slot.putStack(null);
+										slot.putStack(ItemStack.EMPTY);
 
 									}
 									break;
