@@ -52,6 +52,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 @Optional.InterfaceList({@Optional.Interface(modid = RedstoneFluxProps.MOD_ID, iface = "cofh.redstoneflux.api.IEnergyReceiver"),
+@Optional.InterfaceList({@Optional.Interface(modid = "redstoneflux", iface = "cofh.redstoneflux.api.IEnergyReceiver"),
 							@Optional.Interface(modid = "ic2",iface = "ic2.api.energy.tile.IEnergySink"),
 							@Optional.Interface(modid = "ic2",iface = "ic2.api.energy.tile.IEnergyEmitter")})
 public class TileEntityExtractor extends TileEntityFEPoweredMachine implements
