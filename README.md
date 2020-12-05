@@ -1,5 +1,6 @@
-# modularforcefieldsystem or MFFS mod
+# Modular Force Field Sysetm
 Yet another failed attempt to maintain this old mod. After deeper investigation I think write another force field mod from scratch or simply use WarpDrive mod is a better idea. So here is what I got from my attempt.
+
 # Current Bugs of this mod
 - Unfinished EnderIO recipes and Thermal Expansion recipes
 - Extremely inefficient force field generating. See ItemProjectorModuleSphere
